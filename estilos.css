@@ -269,7 +269,6 @@ nav {
   color:#fff;
   font-size:30px;
   font-family:'Montserrat', sans-serif;
-  font-weight:bold;
   padding:70px 0px 0px 0px;
 }
 
@@ -294,7 +293,6 @@ nav {
   color:#fff;
   font-size:30px;
   font-family:'Montserrat', sans-serif;
-  font-weight:bold;
   padding:30px 0px 0px 0px;
 }
 
@@ -325,7 +323,6 @@ nav {
   color:#000;
   font-size:30px;
   font-family:'Montserrat', sans-serif;
-  font-weight:bold;
 }
 
 #l_instagram{
@@ -335,7 +332,6 @@ nav {
 #tinstagram, #tgoogle, #tfacebook {
   /*display:inline-block;*/
   font-family:'Montserrat', sans-serif;
-  font-weight:bolder;
   opacity:1;
 }
 
@@ -358,6 +354,5 @@ footer{
   padding-top:20px;
   padding-bottom:10px;
   font-family:'Segoe UI', sans-serif;
-  font-weight:lighter;
 
 }
