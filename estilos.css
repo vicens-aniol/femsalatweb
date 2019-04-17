@@ -17,7 +17,22 @@ p {
   font-family:'Segoe UI';
 }
 
+iframe{
+    width:100%;
+}
 
+ul { 
+   display:none; 
+}
+
+#logo {
+    margin-left:0;
+}
+
+header {
+    
+    text-align:center;
+}
 
 header {
 
@@ -29,11 +44,6 @@ header {
   -moz-box-shadow: 3px 3px 3px rgba(0,0,0,0.05);
   -o-box-shadow: 3px 3px 3px rgba(0,0,0,0.05);
   
-}
-
-nav{
-
-
 }
 
 nav ul {
@@ -86,9 +96,9 @@ nav {
 
 #imagenes {
 	padding-top: 50px;
-  width: 90%;
+  	width: 90%;
 	margin: auto;
-  overflow:hidden;
+  	overflow:hidden;
   /*background:black;*/
  }
 
@@ -103,20 +113,20 @@ nav {
 
 
 #opacity{
-		height:300px;
+	height:300px;
 	width:300px;
 	border-radius:50%;
 	position:relative;
 	left:-300px;
 	opacity:0;
 	-webkit-transition:opacity .2s;
-  -webkit-transition-timing-function:linear;
-  transition:opacity .2s;
-  transition-timing-function: linear;
-  -moz-transition:opacity .2s;
-  -moz-transition-timing-function:linear;
-  -o-transition:opacity .2s;
-  -o-transition-timing-function:linear;
+	-webkit-transition-timing-function:linear;
+	transition:opacity .2s;
+	transition-timing-function: linear;
+	-moz-transition:opacity .2s;
+	-moz-transition-timing-function:linear;
+	-o-transition:opacity .2s;
+	-o-transition-timing-function:linear;
 }
 
 #opacity:hover{
