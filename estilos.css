@@ -159,19 +159,19 @@ nav {
   font-size:35px;
 }
 
-@media (max-width:520px) {
+@media (max-width:520px;) {
 #especialitats {
   padding-top: 25%;
 }
 }
 
-@media (max-width:385px) {
+@media (max-width:385px;) {
 #especialitats {
   padding-top: 30%;
 }
 }
 
-@media (max-width:293px) {
+@media (max-width:293px;) {
 #especialitats {
   padding-top: 35%;
 }
