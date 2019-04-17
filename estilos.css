@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 @font-face { src: url(fonts/Montserrat-Thin.ttf); font-family:'Montserrat-Thin'; }
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900');
 
 body{
  width:100%;
