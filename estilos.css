@@ -152,11 +152,12 @@ nav {
   left:150px;
   border-radius:15%;
 }
-
+@media (min-width:520px;) {
 #especialitats {
   padding-top: 20%;
   font-family: 'Montserrat', sans-serif;
   font-size:35px;
+}
 }
 
 @media (max-width:520px;) {
