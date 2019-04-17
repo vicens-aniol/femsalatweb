@@ -155,9 +155,8 @@ nav {
 
 #especialitats {
   padding-top:120px;
-  font-family: 'Montserrat-Thin', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:35px;
-  font-weight:bold;
 }
 .texto_imagen{
   position:relative;
@@ -197,7 +196,7 @@ nav {
 
 .tmapas{
   padding-top:120px;
-  font-family: 'Montserrat-Thin', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:35px;
 }
 
@@ -269,7 +268,7 @@ nav {
 #tquisom1{
   color:#fff;
   font-size:30px;
-  font-family:'Montserrat-Thin', sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-weight:bold;
   padding:70px 0px 0px 0px;
 }
@@ -285,7 +284,7 @@ nav {
 #tbotiga{
   color:#fff;
   font-size:40px;
-  font-family:'Montserrat-Thin', sans-serif;
+  font-family:'Montserrat', sans-serif;
   
   margin:30px 200px 0px 200px;
   padding:0px 100px 100px 100px;
@@ -294,7 +293,7 @@ nav {
 #tbotiga1 {
   color:#fff;
   font-size:30px;
-  font-family:'Montserrat-Thin', sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-weight:bold;
   padding:30px 0px 0px 0px;
 }
@@ -325,7 +324,7 @@ nav {
   margin-top:20px;
   color:#000;
   font-size:30px;
-  font-family:'Montserrat-Thin', sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-weight:bold;
 }
 
@@ -335,7 +334,7 @@ nav {
 
 #tinstagram, #tgoogle, #tfacebook {
   /*display:inline-block;*/
-  font-family:'Montserrat-Thin', sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-weight:bolder;
   opacity:1;
 }
