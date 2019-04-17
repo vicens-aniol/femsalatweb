@@ -95,7 +95,6 @@ nav {
 }
 
 #imagenes {
-	padding-top: 50px;
   	width: 90%;
 	margin: auto;
   	overflow:hidden;
@@ -110,7 +109,8 @@ nav {
 
 }
 
-
+#enlaces {
+	padding-top: 50px;}
 
 #opacity{
 	height:300px;
@@ -154,7 +154,7 @@ nav {
 }
 
 #especialitats {
-  padding-top: 25%;
+  padding-top: 15%;
   font-family: 'Montserrat', sans-serif;
 	font-size:35px;}
 
