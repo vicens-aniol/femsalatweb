@@ -154,10 +154,29 @@ nav {
 }
 
 #especialitats {
-  padding-top:120px;
+  padding-top: 20%;
   font-family: 'Montserrat', sans-serif;
   font-size:35px;
 }
+
+@media (max-width:520px) {
+#especialitats {
+  padding-top: 25%;
+}
+}
+
+@media (max-width:385px) {
+#especialitats {
+  padding-top: 30%;
+}
+}
+
+@media (max-width:293px) {
+#especialitats {
+  padding-top: 35%;
+}
+}
+
 .texto_imagen{
   position:relative;
   top:-170px;
