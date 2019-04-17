@@ -110,7 +110,8 @@ nav {
 }
 
 #enlaces {
-	padding-top: 15%;}
+/* 	padding-top: 15%; */
+}
 
 #opacity{
 	height:300px;
@@ -154,7 +155,7 @@ nav {
 }
 
 #especialitats {
-  padding-top: 15%;
+/*   padding-top: 15%; */
   font-family: 'Montserrat', sans-serif;
 	font-size:35px;}
 
