@@ -357,3 +357,13 @@ footer{
   font-family:'Segoe UI', sans-serif;
 
 }
+
+#logo {
+    height: 100%!important;
+}
+
+header{
+    height: 10%!important;
+    padding: 15px 0!important;
+    margin-top: -10px!important;
+}
