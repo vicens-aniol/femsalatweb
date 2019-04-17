@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 @font-face { src: url(fonts/Montserrat-Thin.ttf); font-family:'Montserrat-Thin'; }
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900');
 
 body{
  width:100%;
@@ -196,8 +196,9 @@ nav {
 
 .tmapas{
   padding-top:120px;
-  font-family:Montserrat, sans-serif;
+  font-family:Montserrat, 'Montserrat';
   font-size:35px;
+  font-weight:400;
 }
 
 
