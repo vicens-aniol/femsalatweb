@@ -389,13 +389,17 @@ header{
     box-shadow: 0px 9px 3px -8px rgba(0,0,0,0.2);
 }
 
+#especialitats {	
+  	padding-top: 285px;
+}
+
 /* Móviles en horizontal o tablets en vertical
    ------------------------------------------------------------------------- */
 @media (min-width: 768px) { 
 header{
     height: 130px;
 }
-#imagenes {
+#especialitats {
   	padding-top: 155px;
  }
 }
@@ -407,7 +411,7 @@ header{
 	header{
     height: 120px;
 }
-#imagenes {
+#especialitats {
   	padding-top: 155px;
  }
  }
@@ -419,7 +423,7 @@ header{
 	header{
     height: 100px;
 }
-#imagenes {
+#especialitats {
   	padding-top: 155px;
  }
  }
