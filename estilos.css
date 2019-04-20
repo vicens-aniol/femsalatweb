@@ -390,7 +390,8 @@ header{
 }
 
 #especialitats {	
-  	padding-top: 285px;
+  	padding-top: 285px;	
+  	font-weight:400;
 }
 
 /* Móviles en horizontal o tablets en vertical
