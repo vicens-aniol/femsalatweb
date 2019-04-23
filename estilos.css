@@ -265,16 +265,15 @@ nav {
   opacity:.5;
 }
 #tquisom{
-  color:#fff;
-  font-size:1.54vw;
-  font-family:'Segoe UI', sans-serif;
-  font-weight:lighter;
-  margin:30px 200px 0px 200px;
-  padding:0px 100px 100px 100px;
+	color:#fff;
+	font-size:1.54vw;
+	font-family:'Segoe UI', sans-serif;
+	font-weight:lighter;
+	padding: 0px 0px 100px 0px;
+    	width: 80%;
 }
 
 #qui_som1{
-
   background:#FCBB42;
 }
 
