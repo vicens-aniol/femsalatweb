@@ -426,3 +426,13 @@ header{
   	padding-top: 155px;
  }
  }
+
+
+/*Escritorios muuuuuuuuuuuuuuuuuuuuy anchos
+------------------------------------------------------------------------- */
+ 
+@media (min-width: 1300px) { 
+ #banner{
+ 	max-width:75%;
+ }
+}
